@@ -56,4 +56,4 @@ This is a work-in-progress. Issues and PRs are welcome, especially around:
 
 ## License
 
-TBD. Choose a license before public release.
+MIT. See `LICENSE`.
