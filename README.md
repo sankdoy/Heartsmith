@@ -2,6 +2,8 @@
 
 Hearts bot trainer with a Mac-friendly GUI for experimentation and learning. This project is **not finished** and the training loop is **not improving reliably yet**.
 
+Created by sankdoy.
+
 ## Status
 
 - WIP: training quality is unstable and may regress.
